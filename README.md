@@ -20,3 +20,17 @@ Graph Algorithms visualizer project which visualizes Different types of graph al
 - Topological Sorting
     - Kahn's Algorithm
 
+I have used Javascript, Jquery along with HTML and CSS .
+
+I have taken reference from - Stack overflow(whenever I got stuck it saved me :) )
+
+I would like to thank my team memebers
+    1) Akshay Matre (myself)
+    2) Samiksha Dhumal
+    3) Bhagyashri bagul
+    4) Akshay Gade
+& also Sudarshan Hon (senior) and Akanksha Thokade (friend) for their constant help and support.
+
+You can see live demo at https://akshaymatre08.github.io/AlgorithmVisualizer/
+
+Do star this repo if you find it useful and interesting.
