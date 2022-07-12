@@ -20,5 +20,3 @@ Graph Algorithms visualizer project which visualizes Different types of graph al
 - Topological Sorting
     - Kahn's Algorithm
 
-
-You can view the Live version on [Graph-Algorithms--Visualizer](https://hisham-maged10.github.io/path-finder/)
